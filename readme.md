@@ -17,12 +17,15 @@ The dataset is divided into two parts: 80% for training and 20% for testing purp
 Below are the results for these models:
 
 - Logistic Regression
+
 ![App Screenshot](https://github.com/harrshyadav24/Credit-Card-Fraud-Detection/blob/main/Screenshot%202024-09-13%20140941.png)
 
 - Decision Tree Classifier
+
 ![App Screenshot](https://github.com/harrshyadav24/Credit-Card-Fraud-Detection/blob/main/Screenshot%202024-09-13%20140959.png)
 
 - Random Forest Classifier
+
 ![App Screenshot](https://github.com/harrshyadav24/Credit-Card-Fraud-Detection/blob/main/Screenshot%202024-09-13%20141017.png)
 
 From Exploratory Data Analysis we have found that Fraudulent transactions happened only for small amounts (below 5000).
